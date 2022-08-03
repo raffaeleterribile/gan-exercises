@@ -31,7 +31,7 @@ So I've created the environment with these commands:
 > 
 > `conda activate gan`
 >
-> `conda install pip # TO install packages not suppoerted by conda`
+> `conda install pip # To install packages not available with conda`
 >
 > `conda install matplotlib ipykernel`
 >
